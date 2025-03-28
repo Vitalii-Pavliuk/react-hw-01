@@ -1,0 +1,28 @@
+.transactionHistory {
+    background-color: #f4f7fb;
+    padding: 20px;
+    border-radius: 10px;
+    width: 300px;
+    margin: 0 auto;
+    text-align: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.tableHead {
+    background-color: #00bcd4;
+    color: black;
+}
+
+.tableHeader,
+.tableData {
+    padding: 12px 15px;
+    border: 1px solid #e0e0e0;
+}
+
+.tableRow {
+    background-color: #f9f9f9;
+}
+
+.tableRow:hover {
+    background-color: #f1f1f1;
+}
