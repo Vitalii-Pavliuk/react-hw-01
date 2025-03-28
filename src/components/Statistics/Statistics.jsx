@@ -32,5 +32,3 @@ Statistics.propTypes = {
     })
   ),
 };
-
-console.log(Statistics.propTypes);
